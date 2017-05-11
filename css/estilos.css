@@ -1,0 +1,45 @@
+body
+{
+  background-color: gray;
+}
+
+footer
+{
+  margin-top: 50px;
+}
+
+img
+{
+  border-radius: 20px;
+  background-color: orange;
+}
+#Contenedor
+{
+  font-family: helvetica;
+  font-size: 16px;
+}
+#Encabezado
+{
+    display: block;
+    margin: 0 auto;
+}
+.itemIndice{
+  list-style-type: upper-roman;
+}
+.enlace{
+  color: blue;
+}
+footer#pie{
+  background-color: beige;
+  padding: 2px;
+  border-radius: 10px;
+}
+a[href$='html']{
+  color: orange;
+}
+svg{
+  background-color: white;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-left: 20px;
+}
